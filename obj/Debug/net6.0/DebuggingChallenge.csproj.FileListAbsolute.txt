@@ -1,0 +1,57 @@
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\bin\Debug\net6.0\appsettings.json
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.staticwebassets.runtime.json
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.exe
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.deps.json
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.runtimeconfig.json
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.dll
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.pdb
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.csproj.AssemblyReference.cache
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.AssemblyInfo.cs
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.RazorAssemblyInfo.cache
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.RazorAssemblyInfo.cs
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\scopedcss\bundle\DebuggingChallenge.styles.css
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\scopedcss\projectbundle\DebuggingChallenge.bundle.scp.css
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.dll
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\refint\DebuggingChallenge.dll
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.pdb
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.genruntimeconfig.cache
+C:\Users\nicho\Desktop\CodingDojo\Curriculum\CSharp\DebuggingChallenge\obj\Debug\net6.0\ref\DebuggingChallenge.dll
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\bin\Debug\net6.0\appsettings.Development.json
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\bin\Debug\net6.0\appsettings.json
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.staticwebassets.runtime.json
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.exe
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.deps.json
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.dll
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\bin\Debug\net6.0\DebuggingChallenge.pdb
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.MvcApplicationPartsAssemblyInfo.cache
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.RazorAssemblyInfo.cache
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.RazorAssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\staticwebassets\msbuild.DebuggingChallenge.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\staticwebassets\msbuild.build.DebuggingChallenge.props
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DebuggingChallenge.props
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DebuggingChallenge.props
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\scopedcss\bundle\DebuggingChallenge.styles.css
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\scopedcss\projectbundle\DebuggingChallenge.bundle.scp.css
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.dll
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\refint\DebuggingChallenge.dll
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.pdb
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\DebuggingChallenge.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\Asignaciones pendientes\DebuggingChallenge\obj\Debug\net6.0\ref\DebuggingChallenge.dll
